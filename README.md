@@ -1,7 +1,7 @@
 # Team3S_standards
 Standards to be followed for Team3S
 
-#Git usage
+# Git usage
 
 1. Fork the repo
 2.Clone it to local
@@ -10,6 +10,6 @@ Standards to be followed for Team3S
 5. raise PR
 
 
-Python structure 
+# Python structure 
 
 http://python-guide-pt-br.readthedocs.io/en/latest/writing/structure/
